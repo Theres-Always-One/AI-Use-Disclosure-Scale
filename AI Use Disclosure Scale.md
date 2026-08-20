@@ -106,7 +106,7 @@ AI Use: Full AI
 - Code written entirely by AI
 - Humans may have managed AI or instructed AI what to do, for example by writing a prompt, but AI did the majority of the task. 
 
-### Visual Art
+### Visual Arts
 This scale has been developed for visual art products specifically. Choose the level that best fits your AI use in the production of digital and visual art like drawing, painting, photography, and digital art. 
 
 AI Use: No AI 
