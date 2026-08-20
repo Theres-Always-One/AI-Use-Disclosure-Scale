@@ -18,7 +18,7 @@ The first part of the code, ‘AI use’ denotes association with the scale and 
 The four levels of AI use are as follows: No AI, Minimal AI, Substantial AI and Full AI.
 
 
-### Signoffs: 
+### Signoffs : 
 
 We suggest three types of AI use signoff. We recommend using the signoff at the end of the work, wherever it is posted e.g. at the end of a social media post, at the end of a blog, in the description of a video. Use the first entry where possible, however where characters are limited the other options may be useful. 
 
