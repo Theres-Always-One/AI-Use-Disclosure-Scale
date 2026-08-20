@@ -144,4 +144,5 @@ AI Use: Full AI
 
   
 #AI Use
-This text was entirely written by humans
+This text was entirely written by humans. 
+Thus AI Use: No AI
