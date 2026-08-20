@@ -1,4 +1,4 @@
-<img width="444" height="115" alt="image" src="https://github.com/user-attachments/assets/bd22773a-dd89-4506-8adf-9e3caec9f5ad" /># AI Use Disclosure Scale
+# AI Use Disclosure Scale
 
 ## Introduction
 
