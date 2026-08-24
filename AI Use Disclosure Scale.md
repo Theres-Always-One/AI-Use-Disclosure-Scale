@@ -2,21 +2,13 @@
 
 This system gives people a quick and easy way to self-disclose how much they used AI to produce a work. To use, simply find the most relevant scale below, choose the level that best fits your AI use, and add the respective ‘signoff’ at the end of your work:
 
-No AI:
-- \*No AI was used to produce this work
-- \*AI Use: No AI
+No AI:<br>- \*No AI was used to produce this work <br>- \*AI Use: No AI
 
-Minimal AI:
-- \*Minimal AI was used to produce this work. 
-- \*AI Use: Minimal AI
+Minimal AI:<br>- \*Minimal AI was used to produce this work. <br>- \*AI Use: Minimal AI
 
-Substanial AI:
-- \*Substantial AI was used to produce this work. 
-- \*AI Use: Substantial AI
+Substanial AI:<br>- \*Substantial AI was used to produce this work. <br>- \*AI Use: Substantial AI
 
-Full AI:
-- \*Full AI was used to produce this work. 
-- \*AI Use: Full AI
+Full AI:<br>- \*Full AI was used to produce this work. <br>- \*AI Use: Full AI
 
 Where possible, hyperlink your signoff to this page so that people can understand your signoff in detail, and to help spread awareness of the AI signoff. 
 
