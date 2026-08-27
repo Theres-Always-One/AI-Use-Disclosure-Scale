@@ -85,4 +85,5 @@ It used to be pretty easy to identify AI generated work. But technology is devel
 
 The AI Use Disclosure Scale exists for people, organizations and businesses to self-disclose the level of AI use in what they are producing, and provide an easy way to identify levels of AI use. 
 
+
 **AI Use: No AI*
