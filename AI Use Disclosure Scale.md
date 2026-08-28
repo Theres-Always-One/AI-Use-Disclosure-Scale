@@ -1,6 +1,6 @@
 # AI Use Disclosure Scale
 
-This system gives people a quick and easy way to self-disclose how much they used AI to produce a work. To use, simply find the most relevant scale below, choose the level that best fits your AI use, and add the respective ‘sign-off’ at the end of your work:
+This system gives people a quick and easy way to self-disclose how much they used AI to produce a work. To use, simply add the respective ‘signoff’ at the end of your work:
 
 | AI used to produce work | Sign-off | Quick Sign-off |
 | ----------------------- | -------- | -------------- |
