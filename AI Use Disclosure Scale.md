@@ -9,7 +9,7 @@ This system gives people a quick and easy way to self-disclose how much they use
 | Substantial AI | AI Use: Substantial AI |
 | Full AI | AI Use: Full AI |
 
-Where possible, use [(ai-use.com)](ai-use.com) to hyperlink your sign-off so that people can understand help spread awareness of the AI Use Disclosure Scale.
+Where possible, use [(ai-use.com)](https://www.ai-use.com) to hyperlink your sign-off so that people can understand help spread awareness of the AI Use Disclosure Scale.
 
 To determine if your work should be qualified as **No AI, Minimal AI, Substantial AI or Full AI**, use the following tables. Find the specific table that matches your need, or if you can’t find one, use the general table.
 
@@ -86,4 +86,4 @@ It used to be pretty easy to identify AI generated work. But technology is devel
 The AI Use Disclosure Scale exists for people, organizations and businesses to self-disclose the level of AI use in what they are producing, and provide an easy way to identify levels of AI use. 
 
 
-*AI Use: No AI*  [(ai-use.com)](www.ai-use.com)
+*AI Use: No AI*  [(ai-use.com)](https://www.ai-use.com)
